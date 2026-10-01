@@ -9,6 +9,7 @@ def main():
     print("덧셈:", calculator.add(a, b))
     print("뺄셈:", calculator.subtract(a, b))
     print("곱셈:", calculator.multiply(a, b))
+    print("나눗셈:", calculator.divide(a, b))
 
 
 if __name__ == "__main__":
